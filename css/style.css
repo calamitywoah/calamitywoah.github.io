@@ -5,6 +5,12 @@ body {
   font-family: OpenSans-SemiBold.ttf;
 }
 
+starter {
+  align-content: center;
+  align-items: center;
+  font-family: OpenSans-SemiBold.ttf;
+}
+
 {
 font-color: white;
 }
