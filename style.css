@@ -1,43 +1,85 @@
-html {
-
-  height: 100%;
-
-}
-
-body {
-
-  background-image: linear-gradient(black, rgb(21, 21, 66));
-
-  display: flex;
-
-  flex-direction: column;
-
-  justify-content: center;
-
-  align-items: center;
-
-  height: 100%;
-
-  color: #fff;
-
-  font-family: Basiic;
-
-  overflow: hidden;
-
-}
-
-.discord {
-
-  padding-top: 30px;
-
-  color: lightblue;
-
-}
-
-.hotlinks {
-
-  align-items: center;
-
-  justify-content: center;
-
+html {
+
+
+
+  height: 100%;
+
+
+
+}
+
+
+
+body {
+
+
+
+  background-image: linear-gradient(black, rgb(21, 21, 66));
+
+
+
+  display: flex;
+
+
+
+  flex-direction: column;
+
+
+
+  justify-content: center;
+
+
+
+  align-items: center;
+
+
+
+  height: 100%;
+
+
+
+  color: #fff;
+
+
+
+  font-family: cala.is-a.dev/fonts/Basiic;
+
+
+
+  overflow: hidden;
+
+
+
+}
+
+
+
+.discord {
+
+
+
+  padding-top: 30px;
+
+
+
+  color: lightblue;
+
+
+
+}
+
+
+
+.hotlinks {
+
+
+
+  align-items: center;
+
+
+
+  justify-content: center;
+
+
+
 }
