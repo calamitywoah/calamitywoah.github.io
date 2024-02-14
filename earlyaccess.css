@@ -26,8 +26,12 @@ body {
 
     align-items: right;
 
-    width: 500px;
-
     text-align: right;
+
+}
+
+img {
+
+    width: 500px;
 
 }
