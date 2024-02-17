@@ -20,6 +20,8 @@ body {
 
     text-shadow: black 2px 5px 2px;
 
+    display: inline-block;
+
 }
 
 #links {
@@ -29,6 +31,8 @@ body {
     text-align: right;
 
     flex-grow: 1;
+
+    display: inline-block;
 
 }
 
