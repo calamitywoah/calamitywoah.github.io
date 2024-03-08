@@ -20,21 +20,25 @@ body {
 
     text-shadow: black 2px 5px 2px;
 
-    display: inline-block;
+}
+
+#intro {
+
+    display: flex;
 
 }
 
 #links {
 
-    align-items: right;
+    display: flex;
 
+    align-items: right;
+    
     text-align: right;
 
-    flex-grow: 1;
+    vertical-align: top;
 
-    vertical-align:top;
-
-    display: inline-block;
+    justify-content: space-around;
 
 }
 
