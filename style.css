@@ -7,7 +7,7 @@
   animation: bgcolor 10s infinite;
   -webkit-animation-direction: alternate;
   animation-direction: alternate;
-  margin-top: 80px;
+  margin-top: 90px;
 }
 
 @keyframes bgcolor {
