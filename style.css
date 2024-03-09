@@ -8,6 +8,7 @@
   -webkit-animation-direction: alternate;
   animation-direction: alternate;
   margin-top: 90px;
+  text-shadow: 1px 1px 1px black;
 }
 
 @keyframes bgcolor {
