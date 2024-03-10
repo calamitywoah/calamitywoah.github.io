@@ -49,5 +49,5 @@ p {
   height: 1px;
 }
 h3 {
-  margin: 150px;
+  margin: 150px !important;
 }
