@@ -41,3 +41,7 @@ a {
     top: 650px;
     left: 45px;
 }
+
+p {
+    display: inline-block;
+}
