@@ -11,18 +11,19 @@ body {
     background-image: url(../../images/background.png);
 }
 
-a:hover {
-    font-style: italic;
-    color: #b184ff;
-}
-
 a, a:visited {
-    color: #d9c2ff;
-    font-style: normal;
+    color: #c9b4ff;
+    text-decoration: none;
 }
 
-a:link, a:visited, a:hover, a:active {
-    text-decoration: none; 
+a:hover {
+    color: #a582ff;
+    font-style: italic;
+    text-decoration: none;
+}
+
+a:link, a:active {
+    text-decoration: none;
 }
 
 h4 {
